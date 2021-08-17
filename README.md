@@ -1,6 +1,6 @@
 # AutoDatabase
 
-# Necessary Software
+## Necessary Software
 I used MAMP to run the MySQL server. MAMP is available at https://www.mamp.info/en/downloads/.
 
 I used visual studio to develop the code.
@@ -32,12 +32,12 @@ CREATE TABLE autos (
 
 This defines the table used in the application. Feel free to insert a view automobile too.
 
-# Video Demo
+## Video Demo
 The project demo can be seen at https://youtu.be/Rm7Lrn7NDuY. 
 
 Note that there is no audio, it is just a quick demo to show the database updating ad how to use the application.
 
-# Description
+## Description
 This is an automobile database developed using PHP, MySQL, HTML, and CSS. It was developed to have CRUD functionality and follows a Model-View-Controller design. 
 
 You can sign in to the web application and then create, read, update, and delete automobiles. Each automobile has a make, model, year and mileage and there is data validation before inserting the data into the database.
@@ -51,12 +51,12 @@ Features Implemented
 - Update: Click the edit link to update an entry
 - Delete: Click the delete link to delete an entry
 
-# How to Use
+## How to Use
 1. There is no specified username, just make sure to inclue '@' in the username. 
 2. The password is 'php123'.
 3. Login and use the application!
 
-# Pictures
+## Pictures
 
 <img src = "https://user-images.githubusercontent.com/53048085/129656221-75789672-cea0-4fde-8415-5ea6d6a5c36c.png"/>
 
