@@ -7,7 +7,7 @@ I used visual studio to develop the code.
 
 To view the project you can simply type localhost/"INSERT FILE PATH TO index.php HERE" into the URL bar. 
 
-Note that the project uses the MySQL database so if you do not have the database and tables set up you will get an error. You must set up the database before using the application. To do so you must run MAMP and then open phpMyAdmin by going to tools > phpMyAdmin.
+Note that the project uses the MySQL database so if you do not have the database and tables set up you will get an error. You must set up the database before using the application. To do so, run MAMP and then open phpMyAdmin by going to tools > phpMyAdmin.
 
 Then make a database like so:
 
@@ -30,7 +30,7 @@ CREATE TABLE autos (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 </pre>
 
-This defines the table used in the application. Feel free to insert a view automobile too.
+This defines the table used in the application. Feel free to insert a view automobiles too.
 
 ## Video Demo
 The project demo can be seen at https://youtu.be/Rm7Lrn7NDuY. 
