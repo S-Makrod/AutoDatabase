@@ -32,7 +32,7 @@ CREATE TABLE autos (
 
 This defines the table used in the application. Feel free to insert a view automobiles too.
 
-## Video Demo
+## Demo
 The project demo can be seen at https://youtu.be/Rm7Lrn7NDuY. 
 
 Note that there is no audio, it is just a quick demo to show the database updating ad how to use the application.
